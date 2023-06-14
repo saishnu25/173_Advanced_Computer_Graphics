@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1679880864 source:c:\users\saish\desktop\opengl_projects\csci_173_adv_comp_graphics\project_3\main.cpp
+	<string.h>
+	<GL/glew.h>
+	<GL/gl.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+	<algorithm>
+	<array>
+	<fstream>
+	<sstream>
+	<string>
+	<string.h>
+	<math.h>
+	<SOIL.h>
+
+1501566382 c:\users\saish\desktop\opengl_projects\csci_173_adv_comp_graphics\common\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1669764215 c:\users\saish\desktop\opengl_projects\csci_173_adv_comp_graphics\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1664388438 c:\users\saish\desktop\opengl_projects\csci_173_adv_comp_graphics\common\include\soil.h
+
